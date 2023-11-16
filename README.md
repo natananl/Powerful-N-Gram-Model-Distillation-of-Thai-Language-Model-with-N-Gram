@@ -1,1 +1,1 @@
-# Powerful-N-Gram-Model-Distillation-of-Thai-Language-Model-with-N-Gram
+# Powerful N-gram model : Distillation of Thai Language Model with N-gram
